@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "525368077931",
+    "firebase_url": "https://onlinefirebase-c6036-default-rtdb.firebaseio.com",
+    "project_id": "onlinefirebase-c6036",
+    "storage_bucket": "onlinefirebase-c6036.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:525368077931:android:2e58051f726c7fce118b2e",
+        "android_client_info": {
+          "package_name": "com.example.onlinedb_pharunyu_seca"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAcX7YQXX3M57hQ6sqakn0d36Sd8ucqk_k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
